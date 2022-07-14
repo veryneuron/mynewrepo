@@ -3,3 +3,4 @@ remote push test
 another account test
 forked branch PR test
 master branch PR test
+branch merge test
